@@ -1,0 +1,10 @@
+body {
+  background: url("./media/pexels-brett-sayles-6667892.jpg");
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
