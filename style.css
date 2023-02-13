@@ -14,10 +14,20 @@ body {
   background: rgba(255, 255, 255, 0.6);
   padding: 18px;
   border-radius: 15px;
+  color: #13005a;
 }
 
 .input {
   width: 100%;
   font-size: 18px;
   height: 25px;
+}
+
+.payment {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.text {
+  font-weight: 700;
 }
